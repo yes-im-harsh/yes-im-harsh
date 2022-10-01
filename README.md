@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes-im-harsh&label=Profile%20views&color=0e5eb4&style=flat" alt="yes-im-harsh" /> </p>
 
 
-- 🔭 I’m currently working on [Support Ticket](http://yes-im-harsh-support-ticket.herokuapp.com/)
+- 🔭 I’m currently working on [Movie Review Website](https://github.com/yes-im-harsh/movie_review)
 
 - 🌱 I’m currently learning **MERN, t3 Stack & Blockchain**
 
@@ -16,6 +16,8 @@
 - 💬 Ask me about **JavaScript, React & Blockchain**
 
 - 📫 How to reach me **harshchauhan.cse279@gmail.com**
+
+- ⚡ Fun fact **It takes me a minute to solve Rubik's Cube**
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
