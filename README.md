@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshchauhan.cse279@gmail.com**
 
-- ⚡ Fun fact **It takes me a minute to solve Rubik's Cube**
+- ⚡ Fun fact **I can solve Rubik's Cube in less than a minute**
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
@@ -51,16 +51,16 @@
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yes-im-harsh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="yes-im-harsh" />
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yes-im-harsh&show_icons=true&theme=dark&locale=en&layout=compact" alt="yes-im-harsh" />
 </p>
 
 <h3 align="left">My GitHub Stats 📈: </h3>
 
 
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yes-im-harsh&show_icons=true&theme=dracula&locale=en" alt="yes-im-harsh" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yes-im-harsh&show_icons=true&theme=dark&locale=en" alt="yes-im-harsh" /></p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yes-im-harsh&theme=dracula&locale=en" alt="yes-im-harsh" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yes-im-harsh&theme=dark&locale=en" alt="yes-im-harsh" /></p>
 
 <a href="http://www.github.com/yes-im-harsh"><img src="https://activity-graph.herokuapp.com/graph?username=yes-im-harsh&bg_color=282A36&color=ffffff&line=FE6E95&point=ffffff&area_color=79D9F9&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
