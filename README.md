@@ -63,4 +63,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yes-im-harsh&theme=dark&locale=en" alt="yes-im-harsh" /></p>
 
-<a href="http://www.github.com/yes-im-harsh"><img src="https://activity-graph.herokuapp.com/graph?username=yes-im-harsh&bg_color=282A36&color=ffffff&line=FE6E95&point=ffffff&area_color=79D9F9&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/yes-im-harsh"><img src="https://activity-graph.herokuapp.com/graph?username=yes-im-harsh&bg_color=151515&color=FA8B00&line=60C477&point=ffffff&area_color=79D9F9&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
