@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 <h3 align="center">Full Stack Web Developer from India</h3>
 
-<p align="center" ><img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76117b06e01ca37a23189aae6ab6afd26d936ce35e86&rid=giphy.gif&ct=g" alt="gif"/></p>
+<p align="center" ><img src="https://i.ibb.co/WVyFQYs/full-stack.gif" alt="gif" width="600"/></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes-im-harsh&label=Profile%20views&color=0e5eb4&style=flat" alt="yes-im-harsh" /> </p>
@@ -63,4 +63,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yes-im-harsh&theme=dark&locale=en" alt="yes-im-harsh" /></p>
 
-<a href="http://www.github.com/yes-im-harsh"><img src="https://activity-graph.herokuapp.com/graph?username=yes-im-harsh&bg_color=151515&color=FA8B00&line=60C477&point=ffffff&area_color=79D9F9&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/yes-im-harsh"><img src="https://activity-graph.herokuapp.com/graph?username=yes-im-harsh&bg_color=151515&color=DADADA&line=79FE96&point=ffffff&area_color=D0EAF0&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
