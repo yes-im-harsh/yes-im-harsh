@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 <h3 align="center">Full Stack Web Developer from India</h3>
 
-<p align="center" ><img src="https://i.ibb.co/5vbPvwv/Richard-Silicon-Valley-GIF.gif" alt="gif" width="400" height="300"/></p>
+<p align="center" ><img src="https://media2.giphy.com/media/ZH8opjhQddMvhEYY0f/giphy.gif?cid=790b76115154762c96766bcb251752e2725e3ba1c80b5003&rid=giphy.gif&ct=g" alt="gif" width="400" height="300"/></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes-im-harsh&label=Profile%20views&color=0e5eb4&style=flat" alt="yes-im-harsh" /> </p>
