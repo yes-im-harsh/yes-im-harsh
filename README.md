@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 <h3 align="center">Full Stack Web Developer from India</h3>
 
-<p align="center" ><img src="https://i.ibb.co/WVyFQYs/full-stack.gif" alt="gif" width="400" height="300"/></p>
+<p align="center" ><img src="https://i.ibb.co/5vbPvwv/Richard-Silicon-Valley-GIF.gif" alt="gif" width="400" height="300"/></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes-im-harsh&label=Profile%20views&color=0e5eb4&style=flat" alt="yes-im-harsh" /> </p>
 
 
-- 🔭 I’m currently working on [Movie Review Website](https://amispardha.vercel.app/)
+- 🔭 I’m currently working on [Amispardha 2.0](https://amispardha.vercel.app/)
 
 - 🌱 I’m currently learning **MERN, t3 Stack & Blockchain**
 
