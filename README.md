@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
-<h3 align="center">Full Stack Web Developer from India</h3>
+<h3 align="center">Full Stack Web Developer From India</h3>
 
 <p align="center" ><img src="https://media2.giphy.com/media/ZH8opjhQddMvhEYY0f/giphy.gif?cid=790b76115154762c96766bcb251752e2725e3ba1c80b5003&rid=giphy.gif&ct=g" alt="gif" width="400" height="300"/></p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Amispardha 2.0](https://amispardha.vercel.app/)
 
-- 🌱 I’m currently learning **MERN, t3 Stack & Blockchain**
+- 🌱 I’m currently learning **MERN, t3 Stack, Blockchain & Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yes-im-harsh?tab=repositories](https://github.com/yes-im-harsh?tab=repositories)
 
