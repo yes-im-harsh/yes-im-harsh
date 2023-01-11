@@ -24,7 +24,7 @@
 <a href="https://dev.to/yesimharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yesimharsh" height="30" width="40" /></a>
 <a href="https://twitter.com/yes_im_harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yes_im_harsh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yes-im-harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yes-im-harsh" height="30" width="40" /></a>
-<a href="https://instagram.com/yes_im_harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yes_im_harsh" height="30" width="40" /></a>
+<a href="https://instagram.com/voila_harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yes_im_harsh" height="30" width="40" /></a>
 <a href="https://discord.gg/im_harsh#8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="im_harsh#8848" height="30" width="40" /></a>
 </p>
 
