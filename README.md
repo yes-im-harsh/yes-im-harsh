@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yes-im-harsh&label=Profile%20views&color=0e5eb4&style=flat" alt="yes-im-harsh" /> </p>
 
 
-- 🔭 I’m currently working at [Xamtac]
+- 🔭 I’m currently working at [Xamtac Consulting](https://github.com/XamtacConsulting)
 
 - 🌱 I’m currently learning **MERN, t3 Stack, Blockchain & Algorithms**
 
